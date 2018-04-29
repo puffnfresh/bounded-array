@@ -6,6 +6,7 @@ module Data.Array.Bounded (
 , (!)
 , (//)
 , indexBounded
+, unboundedArray
 , listArrayFill
 , listArrayCycle
 , accumArrayBounded
